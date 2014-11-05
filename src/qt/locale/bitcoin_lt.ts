@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Gamerscoin</source>
-        <translation>Apie Gamerscoin</translation>
+        <source>About Anarchycoin</source>
+        <translation>Apie Anarchycoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Gamerscoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Gamerscoin&lt;/b&gt; versija</translation>
+        <source>&lt;b&gt;Anarchycoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Anarchycoin&lt;/b&gt; versija</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,7 +33,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+0"/>
-        <source>The Gamerscoin developers</source>
+        <source>The Anarchycoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -66,8 +66,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Gamerscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tai yra jūsų Gamerscoin adresai mokėjimų gavimui. Galite duoti skirtingus adresus atskiriems siuntėjams, kad galėtumėte sekti, kas jums moka.</translation>
+        <source>These are your Anarchycoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tai yra jūsų Anarchycoin adresai mokėjimų gavimui. Galite duoti skirtingus adresus atskiriems siuntėjams, kad galėtumėte sekti, kas jums moka.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Gamerscoin address</source>
-        <translation>Pasirašykite žinutę, kad įrodytume, jog esate Gamerscoin adreso savininkas</translation>
+        <source>Sign a message to prove you own a Anarchycoin address</source>
+        <translation>Pasirašykite žinutę, kad įrodytume, jog esate Anarchycoin adreso savininkas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Gamerscoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Gamerscoin adresas</translation>
+        <source>Verify a message to ensure it was signed with a specified Anarchycoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Anarchycoin adresas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Gamerscoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Anarchycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -274,8 +274,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-56"/>
-        <source>Gamerscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gamerscoins from being stolen by malware infecting your computer.</source>
-        <translation>Gamerscoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti gamerscoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
+        <source>Anarchycoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your anarchycoins from being stolen by malware infecting your computer.</source>
+        <translation>Anarchycoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti anarchycoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Gamerscoin</source>
-        <translation>Rodyti informaciją apie Gamerscoin</translation>
+        <source>Show information about Anarchycoin</source>
+        <translation>Rodyti informaciją apie Anarchycoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Gamerscoin address</source>
-        <translation>Siųsti monetas Gamerscoin adresui</translation>
+        <source>Send coins to a Anarchycoin address</source>
+        <translation>Siųsti monetas Anarchycoin adresui</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Gamerscoin</source>
-        <translation>Keisti gamerscoin konfigūracijos galimybes</translation>
+        <source>Modify configuration options for Anarchycoin</source>
+        <translation>Keisti anarchycoin konfigūracijos galimybes</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Gamerscoin</source>
-        <translation>Gamerscoin</translation>
+        <source>Anarchycoin</source>
+        <translation>Anarchycoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Gamerscoin</source>
-        <translation>&amp;Apie Gamerscoin</translation>
+        <source>&amp;About Anarchycoin</source>
+        <translation>&amp;Apie Anarchycoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,12 +499,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Gamerscoin addresses to prove you own them</source>
+        <source>Sign messages with your Anarchycoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Gamerscoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Anarchycoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -535,13 +535,13 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+47"/>
-        <source>Gamerscoin client</source>
-        <translation>Gamerscoin klientas</translation>
+        <source>Anarchycoin client</source>
+        <translation>Anarchycoin klientas</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Gamerscoin network</source>
-        <translation><numerusform>%n Gamerscoin tinklo aktyvus ryšys</numerusform><numerusform>%n Gamerscoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Gamerscoin tinklo aktyvūs ryšiai</numerusform></translation>
+        <source>%n active connection(s) to Anarchycoin network</source>
+        <translation><numerusform>%n Anarchycoin tinklo aktyvus ryšys</numerusform><numerusform>%n Anarchycoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Anarchycoin tinklo aktyvūs ryšiai</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -654,7 +654,7 @@ Adresas: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Gamerscoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Anarchycoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -669,7 +669,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Gamerscoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Anarchycoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -735,8 +735,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Gamerscoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Gamerscoin adresas.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Anarchycoin address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis Anarchycoin adresas.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -754,8 +754,8 @@ Adresas: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Gamerscoin-Qt</source>
-        <translation>Gamerscoin-Qt</translation>
+        <source>Anarchycoin-Qt</source>
+        <translation>Anarchycoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -817,13 +817,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Gamerscoin after logging in to the system.</source>
+        <source>Automatically start Anarchycoin after logging in to the system.</source>
         <translation>Automatiškai paleisti Bitkoin programą įjungus sistemą.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Gamerscoin on system login</source>
-        <translation>&amp;Paleisti Gamerscoin programą su window sistemos paleidimu</translation>
+        <source>&amp;Start Anarchycoin on system login</source>
+        <translation>&amp;Paleisti Anarchycoin programą su window sistemos paleidimu</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -842,8 +842,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Gamerscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Gamerscoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the Anarchycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti Anarchycoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -852,7 +852,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Gamerscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Anarchycoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Jungtis į Bitkoin tinklą per  socks proxy (pvz. jungiantis per Tor)</translation>
     </message>
     <message>
@@ -927,8 +927,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Gamerscoin.</source>
-        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Gamerscoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Anarchycoin.</source>
+        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Anarchycoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -942,7 +942,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Gamerscoin addresses in the transaction list or not.</source>
+        <source>Whether to show Anarchycoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -994,7 +994,7 @@ Adresas: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Gamerscoin.</source>
+        <source>This setting will take effect after restarting Anarchycoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1013,7 +1013,7 @@ Adresas: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Gamerscoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anarchycoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1067,7 +1067,7 @@ Adresas: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start gamerscoin: click-to-pay handler</source>
+        <source>Cannot start anarchycoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1217,7 +1217,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Gamerscoin-Qt help message to get a list with possible Gamerscoin command-line options.</source>
+        <source>Show the Anarchycoin-Qt help message to get a list with possible Anarchycoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1237,13 +1237,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Gamerscoin - Debug window</source>
-        <translation>Gamerscoin - Derinimo langas</translation>
+        <source>Anarchycoin - Debug window</source>
+        <translation>Anarchycoin - Derinimo langas</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Gamerscoin Core</source>
-        <translation>Gamerscoin branduolys</translation>
+        <source>Anarchycoin Core</source>
+        <translation>Anarchycoin branduolys</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1252,7 +1252,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Gamerscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Anarchycoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1262,7 +1262,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Gamerscoin RPC console.</source>
+        <source>Welcome to the Anarchycoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1446,7 +1446,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Gamerscoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1511,7 +1511,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Gamerscoin address</source>
+        <source>Sign the message to prove you own this Anarchycoin address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -1547,8 +1547,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Gamerscoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Gamerscoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified Anarchycoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Anarchycoin adresas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,7 +1563,7 @@ Adresas: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Gamerscoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1573,8 +1573,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Gamerscoin signature</source>
-        <translation>Įveskite Gamerscoin parašą</translation>
+        <source>Enter Anarchycoin signature</source>
+        <translation>Įveskite Anarchycoin parašą</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1647,7 +1647,7 @@ Adresas: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Gamerscoin developers</source>
+        <source>The Anarchycoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2185,8 +2185,8 @@ Adresas: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Gamerscoin version</source>
-        <translation>Gamerscoin versija</translation>
+        <source>Anarchycoin version</source>
+        <translation>Anarchycoin versija</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2195,8 +2195,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gamerscoind</source>
-        <translation>Siųsti komandą serveriui arba gamerscoind</translation>
+        <source>Send command to -server or anarchycoind</source>
+        <translation>Siųsti komandą serveriui arba anarchycoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2215,13 +2215,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gamerscoin.conf)</source>
-        <translation>Nurodyti konfigūracijos failą (pagal nutylėjimąt: gamerscoin.conf)</translation>
+        <source>Specify configuration file (default: anarchycoin.conf)</source>
+        <translation>Nurodyti konfigūracijos failą (pagal nutylėjimąt: anarchycoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gamerscoind.pid)</source>
-        <translation>Nurodyti pid failą (pagal nutylėjimą: gamerscoind.pid)</translation>
+        <source>Specify pid file (default: anarchycoind.pid)</source>
+        <translation>Nurodyti pid failą (pagal nutylėjimą: anarchycoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2235,8 +2235,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 40002 or testnet: 50001)</source>
-        <translation>Sujungimo klausymas prijungčiai  &lt;port&gt; (pagal nutylėjimą: 40002 arba testnet: 50001)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 46667 or testnet: 50001)</source>
+        <translation>Sujungimo klausymas prijungčiai  &lt;port&gt; (pagal nutylėjimą: 46667 arba testnet: 50001)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2270,8 +2270,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 40001 or testnet: 50000)</source>
-        <translation>Klausymas JSON-RPC sujungimui prijungčiai &lt;port&gt; (pagal nutylėjimą: 40001 or testnet: 50000)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 46666 or testnet: 50000)</source>
+        <translation>Klausymas JSON-RPC sujungimui prijungčiai &lt;port&gt; (pagal nutylėjimą: 46666 or testnet: 50000)</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2298,13 +2298,13 @@ Adresas: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gamerscoinrpc
+rpcuser=anarchycoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Anarchycoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2320,7 +2320,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Gamerscoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Anarchycoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2365,8 +2365,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Gamerscoin will not work properly.</source>
-        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas Gamerscoin, veiks netinkamai.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Anarchycoin will not work properly.</source>
+        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas Anarchycoin, veiks netinkamai.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2615,8 +2615,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Gamerscoin Wiki for SSL setup instructions)</source>
-        <translation>SSL opcijos (žr.e Gamerscoin Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the Anarchycoin Wiki for SSL setup instructions)</source>
+        <translation>SSL opcijos (žr.e Anarchycoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2805,13 +2805,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Gamerscoin</source>
-        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės Gamerscoin versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Anarchycoin</source>
+        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės Anarchycoin versijos</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Gamerscoin to complete</source>
-        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite Gamerscoin</translation>
+        <source>Wallet needed to be rewritten: restart Anarchycoin to complete</source>
+        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite Anarchycoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2870,8 +2870,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Gamerscoin is probably already running.</source>
-        <translation>Nepavyko susieti šiame kompiuteryje prievado %s. Gamerscoin tikriausiai jau veikia.</translation>
+        <source>Unable to bind to %s on this computer. Anarchycoin is probably already running.</source>
+        <translation>Nepavyko susieti šiame kompiuteryje prievado %s. Anarchycoin tikriausiai jau veikia.</translation>
     </message>
     <message>
         <location line="+64"/>

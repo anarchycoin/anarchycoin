@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Gamerscoin</source>
+        <source>About Anarchycoin</source>
         <translation>O Gamerscoinu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Gamerscoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Gamerscoin&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;Anarchycoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Anarchycoin&lt;/b&gt; verze</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Gamerscoin developers</source>
+        <source>The Anarchycoin developers</source>
         <translation>Vývojáři Gamerscoinu</translation>
     </message>
 </context>
@@ -67,7 +67,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Gamerscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Anarchycoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Tohle jsou tvé Gamerscoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
     </message>
     <message>
@@ -82,7 +82,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Gamerscoin address</source>
+        <source>Sign a message to prove you own a Anarchycoin address</source>
         <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Gamerscoinové adresy</translation>
     </message>
     <message>
@@ -107,7 +107,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Gamerscoin address</source>
+        <source>Verify a message to ensure it was signed with a specified Anarchycoin address</source>
         <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Gamerscoinovou adresou</translation>
     </message>
     <message>
@@ -122,7 +122,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Gamerscoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Anarchycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Tohle jsou tvé Gamerscoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
@@ -275,8 +275,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Gamerscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gamerscoins from being stolen by malware infecting your computer.</source>
-        <translation>Gamerscoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých gamerscoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>Anarchycoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your anarchycoins from being stolen by malware infecting your computer.</source>
+        <translation>Anarchycoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých anarchycoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,7 +374,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Gamerscoin</source>
+        <source>Show information about Anarchycoin</source>
         <translation>Zobraz informace o Gamerscoinu</translation>
     </message>
     <message>
@@ -419,12 +419,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Gamerscoin address</source>
+        <source>Send coins to a Anarchycoin address</source>
         <translation>Pošli mince na Gamerscoinovou adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Gamerscoin</source>
+        <source>Modify configuration options for Anarchycoin</source>
         <translation>Uprav nastavení Gamerscoinu</translation>
     </message>
     <message>
@@ -455,8 +455,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Gamerscoin</source>
-        <translation>Gamerscoin</translation>
+        <source>Anarchycoin</source>
+        <translation>Anarchycoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,7 +480,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Gamerscoin</source>
+        <source>&amp;About Anarchycoin</source>
         <translation>O &amp;Gamerscoinu</translation>
     </message>
     <message>
@@ -500,12 +500,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Gamerscoin addresses to prove you own them</source>
+        <source>Sign messages with your Anarchycoin addresses to prove you own them</source>
         <translation>Podepiš zprávy svými Gamerscoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Gamerscoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Anarchycoin addresses</source>
         <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Gamerscoinovými adresami</translation>
     </message>
     <message>
@@ -536,12 +536,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Gamerscoin client</source>
-        <translation>Gamerscoin klient</translation>
+        <source>Anarchycoin client</source>
+        <translation>Anarchycoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Gamerscoin network</source>
+        <source>%n active connection(s) to Anarchycoin network</source>
         <translation><numerusform>%n aktivní spojení do Gamerscoinové sítě</numerusform><numerusform>%n aktivní spojení do Gamerscoinové sítě</numerusform><numerusform>%n aktivních spojení do Gamerscoinové sítě</numerusform></translation>
     </message>
     <message>
@@ -656,7 +656,7 @@ Adresa: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Gamerscoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Anarchycoin address or malformed URI parameters.</source>
         <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Gamerscoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
@@ -671,8 +671,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Gamerscoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. Gamerscoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <source>A fatal error occurred. Anarchycoin can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. Anarchycoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -737,7 +737,7 @@ Adresa: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Gamerscoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Anarchycoin address.</source>
         <translation>Zadaná adresa &quot;%1&quot; není platná Gamerscoinová adresa.</translation>
     </message>
     <message>
@@ -756,8 +756,8 @@ Adresa: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Gamerscoin-Qt</source>
-        <translation>Gamerscoin-Qt</translation>
+        <source>Anarchycoin-Qt</source>
+        <translation>Anarchycoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Gamerscoin after logging in to the system.</source>
-        <translation>Automaticky spustí Gamerscoin po přihlášení do systému.</translation>
+        <source>Automatically start Anarchycoin after logging in to the system.</source>
+        <translation>Automaticky spustí Anarchycoin po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Gamerscoin on system login</source>
-        <translation>S&amp;pustit Gamerscoin po přihlášení do systému</translation>
+        <source>&amp;Start Anarchycoin on system login</source>
+        <translation>S&amp;pustit Anarchycoin po přihlášení do systému</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,7 +844,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Gamerscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Anarchycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -854,7 +854,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Gamerscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Anarchycoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Připojí se do Gamerscoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
     </message>
     <message>
@@ -929,7 +929,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Gamerscoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Anarchycoin.</source>
         <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Gamerscoinu.</translation>
     </message>
     <message>
@@ -944,8 +944,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Gamerscoin addresses in the transaction list or not.</source>
-        <translation>Zda ukazovat gamerscoinové adresy ve výpisu transakcí nebo ne.</translation>
+        <source>Whether to show Anarchycoin addresses in the transaction list or not.</source>
+        <translation>Zda ukazovat anarchycoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,7 +996,7 @@ Adresa: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Gamerscoin.</source>
+        <source>This setting will take effect after restarting Anarchycoin.</source>
         <translation>Nastavení se projeví až po restartování Gamerscoinu.</translation>
     </message>
     <message>
@@ -1015,7 +1015,7 @@ Adresa: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Gamerscoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anarchycoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Gamerscoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
@@ -1069,8 +1069,8 @@ Adresa: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start gamerscoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit gamerscoin: obsluha click-to-pay</translation>
+        <source>Cannot start anarchycoin: click-to-pay handler</source>
+        <translation>Nemůžu spustit anarchycoin: obsluha click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1219,7 +1219,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Gamerscoin-Qt help message to get a list with possible Gamerscoin command-line options.</source>
+        <source>Show the Anarchycoin-Qt help message to get a list with possible Anarchycoin command-line options.</source>
         <translation>Seznam parametrů Gamerscoinu pro příkazovou řádku získáš v nápovědě Gamerscoinu Qt.</translation>
     </message>
     <message>
@@ -1239,12 +1239,12 @@ Adresa: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Gamerscoin - Debug window</source>
-        <translation>Gamerscoin - ladicí okno</translation>
+        <source>Anarchycoin - Debug window</source>
+        <translation>Anarchycoin - ladicí okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Gamerscoin Core</source>
+        <source>Anarchycoin Core</source>
         <translation>Jádro Gamerscoinu</translation>
     </message>
     <message>
@@ -1254,7 +1254,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Gamerscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Anarchycoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Otevři soubor s ladicími záznamy Gamerscoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
@@ -1264,7 +1264,7 @@ Adresa: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Gamerscoin RPC console.</source>
+        <source>Welcome to the Anarchycoin RPC console.</source>
         <translation>Vítej v Gamerscoinové RPC konzoli.</translation>
     </message>
     <message>
@@ -1448,7 +1448,7 @@ Adresa: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Gamerscoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Zadej Gamerscoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1513,7 +1513,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Gamerscoin address</source>
+        <source>Sign the message to prove you own this Anarchycoin address</source>
         <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Gamerscoinové adresy</translation>
     </message>
     <message>
@@ -1549,7 +1549,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Gamerscoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Anarchycoin address</source>
         <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Gamerscoinovou adresou</translation>
     </message>
     <message>
@@ -1565,7 +1565,7 @@ Adresa: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Gamerscoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Zadej Gamerscoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1575,7 +1575,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Gamerscoin signature</source>
+        <source>Enter Anarchycoin signature</source>
         <translation>Vlož Gamerscoinový podpis</translation>
     </message>
     <message>
@@ -1649,7 +1649,7 @@ Adresa: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Gamerscoin developers</source>
+        <source>The Anarchycoin developers</source>
         <translation>Vývojáři Gamerscoinu</translation>
     </message>
     <message>
@@ -2187,7 +2187,7 @@ Adresa: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Gamerscoin version</source>
+        <source>Anarchycoin version</source>
         <translation>Verze Gamerscoinu</translation>
     </message>
     <message>
@@ -2197,8 +2197,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gamerscoind</source>
-        <translation>Poslat příkaz pro -server nebo gamerscoind</translation>
+        <source>Send command to -server or anarchycoind</source>
+        <translation>Poslat příkaz pro -server nebo anarchycoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gamerscoin.conf)</source>
-        <translation>Konfigurační soubor (výchozí: gamerscoin.conf)</translation>
+        <source>Specify configuration file (default: anarchycoin.conf)</source>
+        <translation>Konfigurační soubor (výchozí: anarchycoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gamerscoind.pid)</source>
-        <translation>PID soubor (výchozí: gamerscoind.pid)</translation>
+        <source>Specify pid file (default: anarchycoind.pid)</source>
+        <translation>PID soubor (výchozí: anarchycoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2237,8 +2237,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 40002 or testnet: 50001)</source>
-        <translation>Čekat na spojení na &lt;portu&gt; (výchozí: 40002 nebo testnet: 50001)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 46667 or testnet: 50001)</source>
+        <translation>Čekat na spojení na &lt;portu&gt; (výchozí: 46667 nebo testnet: 50001)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2272,8 +2272,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 40001 or testnet: 50000)</source>
-        <translation>Čekat na JSON RPC spojení na &lt;portu&gt; (výchozí: 40001 nebo testnet: 50000)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 46666 or testnet: 50000)</source>
+        <translation>Čekat na JSON RPC spojení na &lt;portu&gt; (výchozí: 46666 nebo testnet: 50000)</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2300,24 +2300,24 @@ Adresa: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gamerscoinrpc
+rpcuser=anarchycoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Anarchycoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=gamerscoinrpc
+rpcuser=anarchycoinrpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@foo.com
+například: alertnotify=echo %%s | mail -s &quot;Anarchycoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ například: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Gamerscoin is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Gamerscoin pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. Anarchycoin is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. Anarchycoin pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ například: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Gamerscoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Gamerscoin nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Anarchycoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Anarchycoin nebude fungovat správně.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ například: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Gamerscoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Gamerscoin Wiki)</translation>
+        <source>SSL options: (see the Anarchycoin Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Anarchycoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ například: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Gamerscoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Anarchycoin</source>
         <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Gamerscoinu</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Gamerscoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Gamerscoin, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart Anarchycoin to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Anarchycoin, aby se operace dokončila</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ například: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Gamerscoin is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Gamerscoin už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. Anarchycoin is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. Anarchycoin už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <location line="+64"/>

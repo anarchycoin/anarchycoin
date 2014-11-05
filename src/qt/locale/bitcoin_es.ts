@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Gamerscoin</source>
-        <translation>Acerca de Gamerscoin</translation>
+        <source>About Anarchycoin</source>
+        <translation>Acerca de Anarchycoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Gamerscoin&lt;/b&gt; version</source>
-        <translation>Versión de &lt;b&gt;Gamerscoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Anarchycoin&lt;/b&gt; version</source>
+        <translation>Versión de &lt;b&gt;Anarchycoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -37,8 +37,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+0"/>
-        <source>The Gamerscoin developers</source>
-        <translation>Los programadores Gamerscoin</translation>
+        <source>The Anarchycoin developers</source>
+        <translation>Los programadores Anarchycoin</translation>
     </message>
 </context>
 <context>
@@ -70,8 +70,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Gamerscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son sus direcciones Gamerscoin para recibir pagos. Puede utilizar una diferente por cada persona emisora para saber quién le está pagando.</translation>
+        <source>These are your Anarchycoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son sus direcciones Anarchycoin para recibir pagos. Puede utilizar una diferente por cada persona emisora para saber quién le está pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -85,8 +85,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Gamerscoin address</source>
-        <translation>Firmar un mensaje para demostrar que se posee una dirección Gamerscoin</translation>
+        <source>Sign a message to prove you own a Anarchycoin address</source>
+        <translation>Firmar un mensaje para demostrar que se posee una dirección Anarchycoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -110,8 +110,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Gamerscoin address</source>
-        <translation>Verificar un mensaje para comprobar que fue firmado con la dirección Gamerscoin indicada</translation>
+        <source>Verify a message to ensure it was signed with a specified Anarchycoin address</source>
+        <translation>Verificar un mensaje para comprobar que fue firmado con la dirección Anarchycoin indicada</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -125,8 +125,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Gamerscoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones Gamerscoin para enviar pagos. Compruebe siempre la cantidad y la dirección receptora antes de transferir monedas.</translation>
+        <source>These are your Anarchycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones Anarchycoin para enviar pagos. Compruebe siempre la cantidad y la dirección receptora antes de transferir monedas.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -278,8 +278,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-56"/>
-        <source>Gamerscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gamerscoins from being stolen by malware infecting your computer.</source>
-        <translation>Gamerscoin se cerrará para finalizar el proceso de cifrado. Recuerde que el cifrado de su monedero no puede proteger totalmente sus gamerscoins de robo por malware que infecte su sistema.</translation>
+        <source>Anarchycoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your anarchycoins from being stolen by malware infecting your computer.</source>
+        <translation>Anarchycoin se cerrará para finalizar el proceso de cifrado. Recuerde que el cifrado de su monedero no puede proteger totalmente sus anarchycoins de robo por malware que infecte su sistema.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Gamerscoin</source>
-        <translation>Mostrar información acerca de Gamerscoin</translation>
+        <source>Show information about Anarchycoin</source>
+        <translation>Mostrar información acerca de Anarchycoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Gamerscoin address</source>
-        <translation>Enviar monedas a una dirección Gamerscoin</translation>
+        <source>Send coins to a Anarchycoin address</source>
+        <translation>Enviar monedas a una dirección Anarchycoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Gamerscoin</source>
-        <translation>Modificar las opciones de configuración de Gamerscoin</translation>
+        <source>Modify configuration options for Anarchycoin</source>
+        <translation>Modificar las opciones de configuración de Anarchycoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -458,8 +458,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Gamerscoin</source>
-        <translation>Gamerscoin</translation>
+        <source>Anarchycoin</source>
+        <translation>Anarchycoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -483,8 +483,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Gamerscoin</source>
-        <translation>&amp;Acerca de Gamerscoin</translation>
+        <source>&amp;About Anarchycoin</source>
+        <translation>&amp;Acerca de Anarchycoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -503,13 +503,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Gamerscoin addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones Gamerscoin para demostrar la propiedad</translation>
+        <source>Sign messages with your Anarchycoin addresses to prove you own them</source>
+        <translation>Firmar mensajes con sus direcciones Anarchycoin para demostrar la propiedad</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Gamerscoin addresses</source>
-        <translation>Verificar mensajes comprobando que están firmados con direcciones Gamerscoin concretas</translation>
+        <source>Verify messages to ensure they were signed with specified Anarchycoin addresses</source>
+        <translation>Verificar mensajes comprobando que están firmados con direcciones Anarchycoin concretas</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -539,13 +539,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+47"/>
-        <source>Gamerscoin client</source>
-        <translation>Cliente Gamerscoin</translation>
+        <source>Anarchycoin client</source>
+        <translation>Cliente Anarchycoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Gamerscoin network</source>
-        <translation><numerusform>%n conexión activa hacia la red Gamerscoin</numerusform><numerusform>%n conexiones activas hacia la red Gamerscoin</numerusform></translation>
+        <source>%n active connection(s) to Anarchycoin network</source>
+        <translation><numerusform>%n conexión activa hacia la red Anarchycoin</numerusform><numerusform>%n conexiones activas hacia la red Anarchycoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -659,8 +659,8 @@ Dirección: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Gamerscoin address or malformed URI parameters.</source>
-        <translation>¡No se puede interpretar la URI! Esto puede deberse a una dirección Gamerscoin inválida o a parámetros de URI mal formados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Anarchycoin address or malformed URI parameters.</source>
+        <translation>¡No se puede interpretar la URI! Esto puede deberse a una dirección Anarchycoin inválida o a parámetros de URI mal formados.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -674,8 +674,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Gamerscoin can no longer continue safely and will quit.</source>
-        <translation>Ha ocurrido un error crítico. Gamerscoin ya no puede continuar con seguridad y se cerrará.</translation>
+        <source>A fatal error occurred. Anarchycoin can no longer continue safely and will quit.</source>
+        <translation>Ha ocurrido un error crítico. Anarchycoin ya no puede continuar con seguridad y se cerrará.</translation>
     </message>
 </context>
 <context>
@@ -740,8 +740,8 @@ Dirección: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Gamerscoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección Gamerscoin válida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Anarchycoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección Anarchycoin válida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -759,8 +759,8 @@ Dirección: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Gamerscoin-Qt</source>
-        <translation>Gamerscoin-Qt</translation>
+        <source>Anarchycoin-Qt</source>
+        <translation>Anarchycoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -822,13 +822,13 @@ Dirección: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Gamerscoin after logging in to the system.</source>
-        <translation>Iniciar Gamerscoin automáticamente al encender el sistema.</translation>
+        <source>Automatically start Anarchycoin after logging in to the system.</source>
+        <translation>Iniciar Anarchycoin automáticamente al encender el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Gamerscoin on system login</source>
-        <translation>&amp;Iniciar Gamerscoin al iniciar el sistema</translation>
+        <source>&amp;Start Anarchycoin on system login</source>
+        <translation>&amp;Iniciar Anarchycoin al iniciar el sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -847,8 +847,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Gamerscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente Gamerscoin en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
+        <source>Automatically open the Anarchycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto del cliente Anarchycoin en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -857,8 +857,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Gamerscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conectar a la red Gamerscoin a través de un proxy SOCKS (ej. para conectar con la red Tor)</translation>
+        <source>Connect to the Anarchycoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conectar a la red Anarchycoin a través de un proxy SOCKS (ej. para conectar con la red Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -932,8 +932,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Gamerscoin.</source>
-        <translation>El idioma de la interfaz de usuario puede establecerse aquí. Este ajuste se aplicará cuando se reinicie Gamerscoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Anarchycoin.</source>
+        <translation>El idioma de la interfaz de usuario puede establecerse aquí. Este ajuste se aplicará cuando se reinicie Anarchycoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -947,8 +947,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Gamerscoin addresses in the transaction list or not.</source>
-        <translation>Mostrar o no las direcciones Gamerscoin en la lista de transacciones.</translation>
+        <source>Whether to show Anarchycoin addresses in the transaction list or not.</source>
+        <translation>Mostrar o no las direcciones Anarchycoin en la lista de transacciones.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -999,8 +999,8 @@ Dirección: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Gamerscoin.</source>
-        <translation>Esta configuración tendrá efecto tras reiniciar Gamerscoin.</translation>
+        <source>This setting will take effect after restarting Anarchycoin.</source>
+        <translation>Esta configuración tendrá efecto tras reiniciar Anarchycoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1018,8 +1018,8 @@ Dirección: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Gamerscoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Gamerscoin después de que se haya establecido una conexión , pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anarchycoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Anarchycoin después de que se haya establecido una conexión , pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1072,8 +1072,8 @@ Dirección: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start gamerscoin: click-to-pay handler</source>
-        <translation>No se pudo iniciar gamerscoin: manejador de pago-al-clic</translation>
+        <source>Cannot start anarchycoin: click-to-pay handler</source>
+        <translation>No se pudo iniciar anarchycoin: manejador de pago-al-clic</translation>
     </message>
 </context>
 <context>
@@ -1222,8 +1222,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Gamerscoin-Qt help message to get a list with possible Gamerscoin command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de Gamerscoin-Qt que enumera las opciones disponibles de línea de órdenes para Gamerscoin.</translation>
+        <source>Show the Anarchycoin-Qt help message to get a list with possible Anarchycoin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de Anarchycoin-Qt que enumera las opciones disponibles de línea de órdenes para Anarchycoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1242,13 +1242,13 @@ Dirección: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Gamerscoin - Debug window</source>
-        <translation>Gamerscoin - Ventana de depuración</translation>
+        <source>Anarchycoin - Debug window</source>
+        <translation>Anarchycoin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Gamerscoin Core</source>
-        <translation>Núcleo de Gamerscoin</translation>
+        <source>Anarchycoin Core</source>
+        <translation>Núcleo de Anarchycoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1257,7 +1257,7 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Gamerscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Anarchycoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Abrir el archivo de registro de depuración en el directorio actual de datos. Esto puede llevar varios segundos para archivos de registro grandes.</translation>
     </message>
     <message>
@@ -1267,8 +1267,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Gamerscoin RPC console.</source>
-        <translation>Bienvenido a la consola RPC de Gamerscoin</translation>
+        <source>Welcome to the Anarchycoin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de Anarchycoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1451,8 +1451,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Gamerscoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduzca una dirección Gamerscoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduzca una dirección Anarchycoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1516,8 +1516,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Gamerscoin address</source>
-        <translation>Firmar el mensaje para demostrar que se posee esta dirección Gamerscoin</translation>
+        <source>Sign the message to prove you own this Anarchycoin address</source>
+        <translation>Firmar el mensaje para demostrar que se posee esta dirección Anarchycoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1552,8 +1552,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Gamerscoin address</source>
-        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección Gamerscoin indicada</translation>
+        <source>Verify the message to ensure it was signed with the specified Anarchycoin address</source>
+        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección Anarchycoin indicada</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1568,8 +1568,8 @@ Dirección: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Gamerscoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduzca una dirección Gamerscoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduzca una dirección Anarchycoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1578,8 +1578,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Gamerscoin signature</source>
-        <translation>Introduzca una firma Gamerscoin</translation>
+        <source>Enter Anarchycoin signature</source>
+        <translation>Introduzca una firma Anarchycoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1652,8 +1652,8 @@ Dirección: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Gamerscoin developers</source>
-        <translation>Los programadores Gamerscoin</translation>
+        <source>The Anarchycoin developers</source>
+        <translation>Los programadores Anarchycoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2190,8 +2190,8 @@ Dirección: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Gamerscoin version</source>
-        <translation>Versión de Gamerscoin</translation>
+        <source>Anarchycoin version</source>
+        <translation>Versión de Anarchycoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2200,8 +2200,8 @@ Dirección: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gamerscoind</source>
-        <translation>Envíar comando a -server o gamerscoind</translation>
+        <source>Send command to -server or anarchycoind</source>
+        <translation>Envíar comando a -server o anarchycoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2223,14 +2223,14 @@ Dirección: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gamerscoin.conf)</source>
-        <translation>Especificar archivo de configuración (predeterminado: gamerscoin.conf)
+        <source>Specify configuration file (default: anarchycoin.conf)</source>
+        <translation>Especificar archivo de configuración (predeterminado: anarchycoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gamerscoind.pid)</source>
-        <translation>Especificar archivo pid (predeterminado: gamerscoin.pid)
+        <source>Specify pid file (default: anarchycoind.pid)</source>
+        <translation>Especificar archivo pid (predeterminado: anarchycoin.pid)
 </translation>
     </message>
     <message>
@@ -2245,8 +2245,8 @@ Dirección: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 40002 or testnet: 50001)</source>
-        <translation>Escuchar conexiones en &lt;puerto&gt; (predeterminado: 40002 o testnet: 50001)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 46667 or testnet: 50001)</source>
+        <translation>Escuchar conexiones en &lt;puerto&gt; (predeterminado: 46667 o testnet: 50001)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2280,8 +2280,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 40001 or testnet: 50000)</source>
-        <translation>Escuchar conexiones JSON-RPC en &lt;puerto&gt; (predeterminado: 40001 o testnet:50000)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 46666 or testnet: 50000)</source>
+        <translation>Escuchar conexiones JSON-RPC en &lt;puerto&gt; (predeterminado: 46666 o testnet:50000)</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2311,24 +2311,24 @@ Dirección: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gamerscoinrpc
+rpcuser=anarchycoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Anarchycoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un valor rpcpassword en el archivo de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=gamerscoinrpc
+rpcuser=anarchycoinrpc
 rpcpassword=%s
 (no es necesario recordar esta contraseña)
 El nombre de usuario y la contraseña DEBEN NO ser iguales.
 Si el archivo no existe, créelo con permisos de archivo de solo lectura.
 Se recomienda también establecer alertnotify para recibir notificaciones de problemas.
-Por ejemplo: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@foo.com
+Por ejemplo: alertnotify=echo %%s | mail -s &quot;Anarchycoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2343,8 +2343,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Gamerscoin is probably already running.</source>
-        <translation>No se puede bloquear el directorio de datos %s. Probablemente Gamerscoin ya se está ejecutando.</translation>
+        <source>Cannot obtain a lock on data directory %s. Anarchycoin is probably already running.</source>
+        <translation>No se puede bloquear el directorio de datos %s. Probablemente Anarchycoin ya se está ejecutando.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2388,8 +2388,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Gamerscoin will not work properly.</source>
-        <translation>Precaución: Por favor, ¡revise que la fecha y hora de su ordenador son correctas! Si su reloj está mal, Gamerscoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Anarchycoin will not work properly.</source>
+        <translation>Precaución: Por favor, ¡revise que la fecha y hora de su ordenador son correctas! Si su reloj está mal, Anarchycoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2638,8 +2638,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Gamerscoin Wiki for SSL setup instructions)</source>
-        <translation>Opciones SSL: (ver la Gamerscoin Wiki para instrucciones de configuración SSL)</translation>
+        <source>SSL options: (see the Anarchycoin Wiki for SSL setup instructions)</source>
+        <translation>Opciones SSL: (ver la Anarchycoin Wiki para instrucciones de configuración SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2838,13 +2838,13 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Gamerscoin</source>
-        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de Gamerscoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Anarchycoin</source>
+        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de Anarchycoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Gamerscoin to complete</source>
-        <translation>El monedero ha necesitado ser reescrito. Reinicie Gamerscoin para completar el proceso</translation>
+        <source>Wallet needed to be rewritten: restart Anarchycoin to complete</source>
+        <translation>El monedero ha necesitado ser reescrito. Reinicie Anarchycoin para completar el proceso</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2903,8 +2903,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Gamerscoin is probably already running.</source>
-        <translation>No es posible conectar con %s en este sistema. Probablemente Gamerscoin ya está ejecutándose.</translation>
+        <source>Unable to bind to %s on this computer. Anarchycoin is probably already running.</source>
+        <translation>No es posible conectar con %s en este sistema. Probablemente Anarchycoin ya está ejecutándose.</translation>
     </message>
     <message>
         <location line="+64"/>

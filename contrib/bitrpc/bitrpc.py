@@ -10,9 +10,9 @@ rpcpass = ""
 
 
 if rpcpass == "":
-	access = ServiceProxy("http://127.0.0.1:40001")
+	access = ServiceProxy("http://127.0.0.1:46666")
 else:
-	access = ServiceProxy("http://"+rpcuser+":"+rpcpass+"@127.0.0.1:40001")
+	access = ServiceProxy("http://"+rpcuser+":"+rpcpass+"@127.0.0.1:46666")
 cmd = sys.argv[1].lower()
 
 if cmd == "backupwallet":
@@ -24,7 +24,7 @@ if cmd == "backupwallet":
 
 elif cmd == "getaccount":
 	try:
-		addr = raw_input("Enter a Gamerscoin address: ")
+		addr = raw_input("Enter a Anarchycoin address: ")
 		print access.getaccount(addr)
 	except:
 		print "\n---An error occurred---\n"
@@ -126,7 +126,7 @@ elif cmd == "getreceivedbyaccount":
 
 elif cmd == "getreceivedbyaddress":
 	try:
-		addr = raw_input("Enter a Gamerscoin address (optional): ")
+		addr = raw_input("Enter a Anarchycoin address (optional): ")
 		mc = raw_input("Minimum confirmations (optional): ")
 		try:
 			print access.getreceivedbyaddress(addr, mc)

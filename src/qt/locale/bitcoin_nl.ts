@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Gamerscoin</source>
-        <translation>Over Gamerscoin</translation>
+        <source>About Anarchycoin</source>
+        <translation>Over Anarchycoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Gamerscoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Gamerscoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;Anarchycoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Anarchycoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+0"/>
-        <source>The Gamerscoin developers</source>
-        <translation>De Gamerscoin-ontwikkelaars</translation>
+        <source>The Anarchycoin developers</source>
+        <translation>De Anarchycoin-ontwikkelaars</translation>
     </message>
 </context>
 <context>
@@ -67,7 +67,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Gamerscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Anarchycoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Dit zijn uw Gamerscoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
     </message>
     <message>
@@ -82,7 +82,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Gamerscoin address</source>
+        <source>Sign a message to prove you own a Anarchycoin address</source>
         <translation>Onderteken een bericht om te bewijzen dat u een bepaald Gamerscoinadres bezit</translation>
     </message>
     <message>
@@ -107,7 +107,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Gamerscoin address</source>
+        <source>Verify a message to ensure it was signed with a specified Anarchycoin address</source>
         <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Gamerscoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
@@ -122,8 +122,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Gamerscoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Gamerscoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw gamerscoins verzendt.</translation>
+        <source>These are your Anarchycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw Gamerscoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw anarchycoins verzendt.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-56"/>
-        <source>Gamerscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gamerscoins from being stolen by malware infecting your computer.</source>
-        <translation>Gamerscoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw gamerscoins stelen.</translation>
+        <source>Anarchycoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your anarchycoins from being stolen by malware infecting your computer.</source>
+        <translation>Anarchycoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw anarchycoins stelen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Gamerscoin</source>
-        <translation>Laat informatie zien over Gamerscoin</translation>
+        <source>Show information about Anarchycoin</source>
+        <translation>Laat informatie zien over Anarchycoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Gamerscoin address</source>
+        <source>Send coins to a Anarchycoin address</source>
         <translation>Verstuur munten naar een Gamerscoinadres</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Gamerscoin</source>
-        <translation>Wijzig instellingen van Gamerscoin</translation>
+        <source>Modify configuration options for Anarchycoin</source>
+        <translation>Wijzig instellingen van Anarchycoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Gamerscoin</source>
-        <translation>Gamerscoin</translation>
+        <source>Anarchycoin</source>
+        <translation>Anarchycoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Gamerscoin</source>
-        <translation>&amp;Over Gamerscoin</translation>
+        <source>&amp;About Anarchycoin</source>
+        <translation>&amp;Over Anarchycoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,12 +500,12 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Gamerscoin addresses to prove you own them</source>
+        <source>Sign messages with your Anarchycoin addresses to prove you own them</source>
         <translation>Onderteken berichten met uw Gamerscoinadressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Gamerscoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Anarchycoin addresses</source>
         <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Gamerscoinadressen</translation>
     </message>
     <message>
@@ -536,12 +536,12 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+47"/>
-        <source>Gamerscoin client</source>
-        <translation>Gamerscoin client</translation>
+        <source>Anarchycoin client</source>
+        <translation>Anarchycoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Gamerscoin network</source>
+        <source>%n active connection(s) to Anarchycoin network</source>
         <translation><numerusform>%n actieve connectie naar Gamerscoinnetwerk</numerusform><numerusform>%n actieve connecties naar Gamerscoinnetwerk</numerusform></translation>
     </message>
     <message>
@@ -656,7 +656,7 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Gamerscoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Anarchycoin address or malformed URI parameters.</source>
         <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig Gamerscoinadres of misvormde URI-parameters.</translation>
     </message>
     <message>
@@ -671,8 +671,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Gamerscoin can no longer continue safely and will quit.</source>
-        <translation>Er is een fatale fout opgetreden. Gamerscoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
+        <source>A fatal error occurred. Anarchycoin can no longer continue safely and will quit.</source>
+        <translation>Er is een fatale fout opgetreden. Anarchycoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
     </message>
 </context>
 <context>
@@ -737,7 +737,7 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Gamerscoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Anarchycoin address.</source>
         <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig Gamerscoinadres</translation>
     </message>
     <message>
@@ -756,8 +756,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Gamerscoin-Qt</source>
-        <translation>Gamerscoin-Qt</translation>
+        <source>Anarchycoin-Qt</source>
+        <translation>Anarchycoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Gamerscoin after logging in to the system.</source>
-        <translation>Start Gamerscoin automatisch na inloggen in het systeem</translation>
+        <source>Automatically start Anarchycoin after logging in to the system.</source>
+        <translation>Start Anarchycoin automatisch na inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Gamerscoin on system login</source>
-        <translation>Start &amp;Gamerscoin bij het inloggen in het systeem</translation>
+        <source>&amp;Start Anarchycoin on system login</source>
+        <translation>Start &amp;Anarchycoin bij het inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Gamerscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de Gamerscoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
+        <source>Automatically open the Anarchycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de Anarchycoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Gamerscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbind met het Gamerscoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
+        <source>Connect to the Anarchycoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbind met het Anarchycoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Gamerscoin.</source>
-        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Gamerscoin herstart wordt.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Anarchycoin.</source>
+        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Anarchycoin herstart wordt.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,7 +944,7 @@ Adres: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Gamerscoin addresses in the transaction list or not.</source>
+        <source>Whether to show Anarchycoin addresses in the transaction list or not.</source>
         <translation>Of Gamerscoinadressen getoond worden in de transactielijst</translation>
     </message>
     <message>
@@ -996,8 +996,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Gamerscoin.</source>
-        <translation>Deze instelling zal pas van kracht worden na het herstarten van Gamerscoin.</translation>
+        <source>This setting will take effect after restarting Anarchycoin.</source>
+        <translation>Deze instelling zal pas van kracht worden na het herstarten van Anarchycoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,7 +1015,7 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Gamerscoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anarchycoin network after a connection is established, but this process has not completed yet.</source>
         <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Gamerscoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
@@ -1069,8 +1069,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start gamerscoin: click-to-pay handler</source>
-        <translation>Kan gamerscoin niet starten: click-to-pay handler</translation>
+        <source>Cannot start anarchycoin: click-to-pay handler</source>
+        <translation>Kan anarchycoin niet starten: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Gamerscoin-Qt help message to get a list with possible Gamerscoin command-line options.</source>
-        <translation>Toon het GamerscoinQt-hulpbericht voor een lijst met mogelijke Gamerscoin commandoregel-opties.</translation>
+        <source>Show the Anarchycoin-Qt help message to get a list with possible Anarchycoin command-line options.</source>
+        <translation>Toon het GamerscoinQt-hulpbericht voor een lijst met mogelijke Anarchycoin commandoregel-opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Gamerscoin - Debug window</source>
-        <translation>Gamerscoin-debugscherm</translation>
+        <source>Anarchycoin - Debug window</source>
+        <translation>Anarchycoin-debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Gamerscoin Core</source>
-        <translation>Gamerscoin Kern</translation>
+        <source>Anarchycoin Core</source>
+        <translation>Anarchycoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,7 +1254,7 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Gamerscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Anarchycoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Open het Gamerscoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Gamerscoin RPC console.</source>
-        <translation>Welkom bij de Gamerscoin RPC-console.</translation>
+        <source>Welcome to the Anarchycoin RPC console.</source>
+        <translation>Welkom bij de Anarchycoin RPC-console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,7 +1448,7 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Gamerscoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Vul een Gamerscoinadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1513,7 +1513,7 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Gamerscoin address</source>
+        <source>Sign the message to prove you own this Anarchycoin address</source>
         <translation>Onderteken een bericht om te bewijzen dat u een bepaald Gamerscoinadres bezit</translation>
     </message>
     <message>
@@ -1549,7 +1549,7 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Gamerscoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Anarchycoin address</source>
         <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Gamerscoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
@@ -1565,7 +1565,7 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Gamerscoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Vul een Gamerscoinadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1575,8 +1575,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Gamerscoin signature</source>
-        <translation>Voer Gamerscoin-handtekening in</translation>
+        <source>Enter Anarchycoin signature</source>
+        <translation>Voer Anarchycoin-handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Gamerscoin developers</source>
-        <translation>De Gamerscoin-ontwikkelaars</translation>
+        <source>The Anarchycoin developers</source>
+        <translation>De Anarchycoin-ontwikkelaars</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,7 +2187,7 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Gamerscoin version</source>
+        <source>Anarchycoin version</source>
         <translation>Gamerscoinversie</translation>
     </message>
     <message>
@@ -2197,8 +2197,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gamerscoind</source>
-        <translation>Stuur commando naar -server of gamerscoind</translation>
+        <source>Send command to -server or anarchycoind</source>
+        <translation>Stuur commando naar -server of anarchycoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,14 +2217,14 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gamerscoin.conf)</source>
-        <translation>Specificeer configuratiebestand (standaard: gamerscoin.conf)
+        <source>Specify configuration file (default: anarchycoin.conf)</source>
+        <translation>Specificeer configuratiebestand (standaard: anarchycoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gamerscoind.pid)</source>
-        <translation>Specificeer pid-bestand (standaard: gamerscoind.pid)
+        <source>Specify pid file (default: anarchycoind.pid)</source>
+        <translation>Specificeer pid-bestand (standaard: anarchycoind.pid)
 </translation>
     </message>
     <message>
@@ -2239,8 +2239,8 @@ Adres: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 40002 or testnet: 50001)</source>
-        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 40002 of testnet: 50001)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 46667 or testnet: 50001)</source>
+        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 46667 of testnet: 50001)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2274,8 +2274,8 @@ Adres: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 40001 or testnet: 50000)</source>
-        <translation>Wacht op JSON-RPC-connecties op poort &lt;port&gt; (standaard: 40001 of testnet: 50000)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 46666 or testnet: 50000)</source>
+        <translation>Wacht op JSON-RPC-connecties op poort &lt;port&gt; (standaard: 46666 of testnet: 50000)</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2302,23 +2302,23 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gamerscoinrpc
+rpcuser=anarchycoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Anarchycoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een RPC-wachtwoord instellen in het configuratiebestand: %s
 U wordt aangeraden het volgende willekeurige wachtwoord te gebruiken:
-rpcuser=gamerscoinrpc
+rpcuser=anarchycoinrpc
 rpcpassword=%s
 (u hoeft dit wachtwoord niet te onthouden)
 De gebruikersnaam en wachtwoord mogen niet hetzelfde zijn.
 Als het bestand niet bestaat, make hem dan aan met leesrechten voor enkel de eigenaar.
 Het is ook aan te bevelen &quot;alertnotify&quot; in te stellen zodat u op de hoogte gesteld wordt van problemen;
-for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@foo.com</translation>
+for example: alertnotify=echo %%s | mail -s &quot;Anarchycoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2332,8 +2332,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Gamerscoin is probably already running.</source>
-        <translation>Kan geen lock op de datamap %s verkrijgen. Gamerscoin draait vermoedelijk reeds.</translation>
+        <source>Cannot obtain a lock on data directory %s. Anarchycoin is probably already running.</source>
+        <translation>Kan geen lock op de datamap %s verkrijgen. Anarchycoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Gamerscoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal Gamerscoin niet correct werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Anarchycoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal Anarchycoin niet correct werken.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Gamerscoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-opties: (zie de Gamerscoin wiki voor SSL-instructies)</translation>
+        <source>SSL options: (see the Anarchycoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-opties: (zie de Anarchycoin wiki voor SSL-instructies)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Gamerscoin</source>
-        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Gamerscoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Anarchycoin</source>
+        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Anarchycoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Gamerscoin to complete</source>
-        <translation>Portemonnee moest herschreven worden: Herstart Gamerscoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart Anarchycoin to complete</source>
+        <translation>Portemonnee moest herschreven worden: Herstart Anarchycoin om te voltooien</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Gamerscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Gamerscoin is probably already running.</source>
-        <translation>Niet in staat om aan %s te binden op deze computer. Gamerscoin draait vermoedelijk reeds.</translation>
+        <source>Unable to bind to %s on this computer. Anarchycoin is probably already running.</source>
+        <translation>Niet in staat om aan %s te binden op deze computer. Anarchycoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+64"/>

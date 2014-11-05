@@ -61,7 +61,7 @@
             <item>
              <widget class="QLabel" name="labelWalletStatus">
               <property name="toolTip">
-               <string>The displayed information may be out of date. Your wallet automatically synchronizes with the Gamerscoin network after a connection is established, but this process has not completed yet.</string>
+               <string>The displayed information may be out of date. Your wallet automatically synchronizes with the Anarchycoin network after a connection is established, but this process has not completed yet.</string>
               </property>
               <property name="styleSheet">
                <string notr="true">QLabel { color: red; }</string>
@@ -132,7 +132,7 @@
                <string>Your current balance</string>
               </property>
               <property name="text">
-               <string notr="true">0 GMC</string>
+               <string notr="true">0 EVIL</string>
               </property>
               <property name="textInteractionFlags">
                <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -161,7 +161,7 @@
                <string>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</string>
               </property>
               <property name="text">
-               <string notr="true">0 GMC</string>
+               <string notr="true">0 EVIL</string>
               </property>
               <property name="textInteractionFlags">
                <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -187,7 +187,7 @@
                <string>Mined balance that has not yet matured</string>
               </property>
               <property name="text">
-               <string notr="true">0 GMC</string>
+               <string notr="true">0 EVIL</string>
               </property>
               <property name="textInteractionFlags">
                <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -233,7 +233,7 @@
             <item>
              <widget class="QLabel" name="labelTransactionsStatus">
               <property name="toolTip">
-               <string>The displayed information may be out of date. Your wallet automatically synchronizes with the Gamerscoin network after a connection is established, but this process has not completed yet.</string>
+               <string>The displayed information may be out of date. Your wallet automatically synchronizes with the Anarchycoin network after a connection is established, but this process has not completed yet.</string>
               </property>
               <property name="styleSheet">
                <string notr="true">QLabel { color: red; }</string>

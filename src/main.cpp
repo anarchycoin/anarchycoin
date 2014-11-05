@@ -33,7 +33,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x91ec5f25ee9a0ffa1af7d4da4db9a552228dd2dc77cdb15b738be4e1f55f30ee");
+uint256 hashGenesisBlock("0xa0724584285b841308898b4b09f59ac3d30eb2c938f90256635763ed2564b537");
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Gamerscoin: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -49,6 +49,9 @@ bool fReindex = false;
 bool fBenchmark = false;
 bool fTxIndex = false;
 unsigned int nCoinCacheSize = 5000;
+
+
+
 
 /** Fees smaller than this (in satoshi) are considered zero fee (for transaction creation) */
 int64 CTransaction::nMinTxFee = 100000;
@@ -66,7 +69,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Gamerscoin Signed Message:\n";
+const string strMessageMagic = "Anarchycoin Signed Message:\n";
 
 double dHashesPerSec = 0.0;
 int64 nHPSTimerStart = 0;
@@ -1065,10 +1068,10 @@ uint256 static GetOrphanRoot(const CBlockHeader* pblock)
 
 int64 static GetBlockValue(int nHeight, int64 nFees)
 {
-    int64 nSubsidy = 50 * COIN;
+    int64 nSubsidy = 50000 * COIN;
 
     // Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 840000); // Gamerscoin: 840k blocks in ~4 years
+    nSubsidy >>= (nHeight / 100000); // Gamerscoin: 840k blocks in ~4 years
 
     return nSubsidy + nFees;
 }
@@ -2822,11 +2825,11 @@ bool LoadBlockIndex()
 {
     if (fTestNet)
     {
-        pchMessageStart[0] = 0xfc;
+        pchMessageStart[0] = 0xdc;
         pchMessageStart[1] = 0xc1;
         pchMessageStart[2] = 0xb7;
         pchMessageStart[3] = 0xdc;
-        hashGenesisBlock = uint256("0x43d0c98dba6bdb726bad6b4c6734ea13e5f452f105a0a1444a1e8bdb00193387");
+        hashGenesisBlock = uint256("0xa0724584285b841308898b4b09f59ac3d30eb2c938f90256635763ed2564b537");
     }
 
     //
@@ -2859,7 +2862,7 @@ bool InitBlockIndex() {
         //   vMerkleTree: 97ddfbbae6
 
         // Genesis block
-        const char* pszTimestamp = "18.12.2014 gamerscoinv3 born";
+        const char* pszTimestamp = "04.11.2014 Ebola outbreak Get up to speed";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -2871,14 +2874,14 @@ bool InitBlockIndex() {
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1392757140;
+        block.nTime    = 1415140523;
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 2084565393;
+        block.nNonce   = 309394;
 
         if (fTestNet)
         {
-            block.nTime    = 1392757140;
-            block.nNonce   = 2084565393;
+            block.nTime    = 1415140523;
+            block.nNonce   = 309394;
         }
 
         //// debug print
@@ -2886,9 +2889,53 @@ bool InitBlockIndex() {
         printf("%s\n", hash.ToString().c_str());
         printf("%s\n", hashGenesisBlock.ToString().c_str());
         printf("%s\n", block.hashMerkleRoot.ToString().c_str());
-        assert(block.hashMerkleRoot == uint256("0xd849db99a14164f4b4c8ad6d2d8d7e2b1ba7f89963e9f4bf9fad5ff1a4754429"));
+        assert(block.hashMerkleRoot == uint256("0x1a3cfedb4839152169221421ece4a334da5843bc284252bfc34174e89f707bf7"));
 ////
         // If genesis block hash does not match, then generate new genesis hash.
+        // If genesis block hash does not match, then generate new genesis hash.
+        if (false && block.GetHash() != hashGenesisBlock)
+        {
+            printf("Searching for genesis block...\n");
+            // This will figure out a valid hash and Nonce if you're
+            // creating a different genesis block:
+            uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
+            uint256 thash;
+            char scratchpad[SCRYPT_SCRATCHPAD_SIZE];
+
+            loop
+            {
+#if defined(USE_SSE2)
+                // Detection would work, but in cases where we KNOW it always has SSE2,
+                // it is faster to use directly than to use a function pointer or conditional.
+#if defined(_M_X64) || defined(__x86_64__) || defined(_M_AMD64) || (defined(MAC_OSX) && defined(__i386__))
+                // Always SSE2: x86_64 or Intel MacOS X
+                scrypt_1024_1_1_256_sp_sse2(BEGIN(block.nVersion), BEGIN(thash), scratchpad);
+#else
+                // Detect SSE2: 32bit x86 Linux or Windows
+                scrypt_1024_1_1_256_sp(BEGIN(block.nVersion), BEGIN(thash), scratchpad);
+#endif
+#else
+                // Generic scrypt
+                scrypt_1024_1_1_256_sp_generic(BEGIN(block.nVersion), BEGIN(thash), scratchpad);
+#endif
+                if (thash <= hashTarget)
+                    break;
+                if ((block.nNonce & 0xFFF) == 0)
+                {
+                    printf("nonce %08X: hash = %s (target = %s)\n", block.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
+                }
+                ++block.nNonce;
+                if (block.nNonce == 0)
+                {
+                    printf("NONCE WRAPPED, incrementing time\n");
+                    ++block.nTime;
+                }
+            }
+            printf("block.nTime = %u \n", block.nTime);
+            printf("block.nNonce = %u \n", block.nNonce);
+            printf("block.GetHash = %s\n", block.GetHash().ToString().c_str());
+        }
+
 
         
 ////
@@ -3165,7 +3212,7 @@ bool static AlreadyHave(const CInv& inv)
 // The message start string is designed to be unlikely to occur in normal data.
 // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
 // a large 4-byte int at any alignment.
-unsigned char pchMessageStart[4] = { 0xfb, 0xc0, 0xb6, 0xdb }; // Gamerscoin: increase each by adding 2 to bitcoin's value.
+unsigned char pchMessageStart[4] = { 0xdb, 0xc0, 0xb6, 0xdb }; // Gamerscoin: increase each by adding 2 to bitcoin's value.
 
 
 void static ProcessGetData(CNode* pfrom)
@@ -4653,7 +4700,7 @@ void static GamerscoinMiner(CWallet *pwallet)
 {
     printf("GamerscoinMiner started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
-    RenameThread("gamerscoin-miner");
+    RenameThread("anarchycoin-miner");
 
     // Each thread has its own key and counter
     CReserveKey reservekey(pwallet);

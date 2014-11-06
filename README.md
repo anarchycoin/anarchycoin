@@ -109,7 +109,7 @@ Run anarchycoind once more to start the daemon!
 anarchycoind help
 ```
 
-The above command will list all available functions of the Anarchycoin daemon. To safely stop the daemon, execute Gamerscoind stop. 
+The above command will list all available functions of the Anarchycoin daemon. To safely stop the daemon, execute Anarchycoind stop. 
 
 #Testing
 -------

@@ -17,13 +17,10 @@ Anarchycoin is a lite version of Bitcoin using scrypt as a proof-of-work algorit
  - 1 blocks to retarget difficulty
  - KGW Implemented
 
-[![tip for next commit](http://game4commit.gamers-coin.org/projects/12.svg)](http://game4commit.gamers-coin.org/projects/12)
 
 #License
 -------
 
-Anarchycoin is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
 
 #Development process
 -------------------
@@ -33,10 +30,6 @@ their feature or bug fix is ready.
 
 If it is a simple/trivial/non-controversial change, then one of the Anarchycoin
 development team members simply pulls it.
-
-If it is a *more complicated or potentially controversial* change, then the patch
-submitter will be asked to start a discussion (if they haven't already) on the
-[mailing list](http://sourceforge.net/mailarchive/forum.php?forum_name=bitcoin-development).
 
 The patch will be accepted if there is broad consensus that it is a good thing.
 Developers should expect to rework and resubmit patches if the code doesn't
@@ -64,12 +57,12 @@ Note: Debian testing and unstable require libboost1.54-all-dev.
 
 ###Compile the daemon
 ```
-git clone https://github.com/gamers-coin/gamers-coinv3.git
+git clone https://github.com/anarchycoin/anarchycoin
 ```
 
 ###Compile anarchycoind
 ```
-cd gamers-coinv3/src/
+cd anarchycoin/src/
 make -f makefile.unix USE_UPNP=1 USE_QRCODE=1 USE_IPV6=1
 strip anarchycoind
 ```
@@ -78,9 +71,9 @@ strip anarchycoind
 ```
 adduser anarchycoin && usermod -g users anarchycoin && delgroup anarchycoin && chmod 0701 /home/anarchycoin
 mkdir /home/anarchycoin/bin
-cp ~/gamers-coinv3/src/anarchycoind /home/anarchycoin/bin/anarchycoind
+cp ~/anarchycoin/src/anarchycoind /home/anarchycoin/bin/anarchycoind
 chown -R anarchycoin:users /home/anarchycoin/bin
-cd && rm -rf gamers-coinv3
+cd && rm -rf anarchycoin
 ```
 
 ###Run the daemon

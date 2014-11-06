@@ -5,7 +5,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Anarchycoin</source>
-        <translation>A Gamerscoinról</translation>
+        <translation>A Anarchycoinról</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -247,8 +247,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GAMERSCOINS&lt;/b&gt;!</source>
-        <translation>Figyelem: Ha kódolod a tárcát, és elveszíted a jelszavad, akkor &lt;b&gt;AZ ÖSSZES GAMERSCOINODAT IS EL FOGOD VESZÍTENI!&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AnarchycoinS&lt;/b&gt;!</source>
+        <translation>Figyelem: Ha kódolod a tárcát, és elveszíted a jelszavad, akkor &lt;b&gt;AZ ÖSSZES AnarchycoinODAT IS EL FOGOD VESZÍTENI!&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -374,7 +374,7 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     <message>
         <location line="+4"/>
         <source>Show information about Anarchycoin</source>
-        <translation>Információk a Gamerscoinról</translation>
+        <translation>Információk a Anarchycoinról</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -480,7 +480,7 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     <message>
         <location line="+22"/>
         <source>&amp;About Anarchycoin</source>
-        <translation>&amp;A Gamerscoinról</translation>
+        <translation>&amp;A Anarchycoinról</translation>
     </message>
     <message>
         <location line="+9"/>

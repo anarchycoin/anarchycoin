@@ -243,8 +243,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GAMERSCOINS&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE GAMERSCOINSE!&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AnarchycoinS&lt;/b&gt;!</source>
+        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE AnarchycoinSE!&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Anarchycoin</source>
-        <translation>Prikaži informacije o Gamerscoinu</translation>
+        <translation>Prikaži informacije o Anarchycoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -476,7 +476,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>&amp;About Anarchycoin</source>
-        <translation>&amp;O Gamerscoinu</translation>
+        <translation>&amp;O Anarchycoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -2803,7 +2803,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Anarchycoin Alert&quot; admin@
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Anarchycoin</source>
-        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju Gamerscoina</translation>
+        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju Anarchycoina</translation>
     </message>
     <message>
         <location line="+93"/>

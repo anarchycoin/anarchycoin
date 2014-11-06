@@ -5,7 +5,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Anarchycoin</source>
-        <translation>Tietoa Gamerscoinista</translation>
+        <translation>Tietoa Anarchycoinista</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -249,8 +249,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GAMERSCOINS&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja menetät tunnuslauseesi, &lt;b&gt;MENETÄT KAIKKI GAMERSCOINISI&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AnarchycoinS&lt;/b&gt;!</source>
+        <translation>Varoitus: Jos salaat lompakkosi ja menetät tunnuslauseesi, &lt;b&gt;MENETÄT KAIKKI AnarchycoinISI&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -361,7 +361,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Näytä Gamerscoinien vastaanottamiseen käytetyt osoitteet</translation>
+        <translation>Näytä Anarchycoinien vastaanottamiseen käytetyt osoitteet</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -426,7 +426,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Anarchycoin</source>
-        <translation>Muuta Gamerscoinin konfiguraatioasetuksia</translation>
+        <translation>Muuta Anarchycoinin konfiguraatioasetuksia</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -482,7 +482,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="+22"/>
         <source>&amp;About Anarchycoin</source>
-        <translation>&amp;Tietoa Gamerscoinista</translation>
+        <translation>&amp;Tietoa Anarchycoinista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1051,7 +1051,7 @@ Osoite: %4</translation>
     <message>
         <location line="-101"/>
         <source>Your current balance</source>
-        <translation>Tililläsi tällä hetkellä olevien Gamerscoinien määrä</translation>
+        <translation>Tililläsi tällä hetkellä olevien Anarchycoinien määrä</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1290,7 +1290,7 @@ Osoite: %4</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä Gamerscoineja</translation>
+        <translation>Lähetä Anarchycoineja</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1340,7 +1340,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Hyväksy Gamerscoinien lähettäminen</translation>
+        <translation>Hyväksy Anarchycoinien lähettäminen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1360,7 +1360,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Maksettavan summan tulee olla suurempi kuin 0 Gamerscoinia.</translation>
+        <translation>Maksettavan summan tulee olla suurempi kuin 0 Anarchycoinia.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2137,7 +2137,7 @@ Osoite: %4</translation>
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Lähetä Gamerscoineja</translation>
+        <translation>Lähetä Anarchycoineja</translation>
     </message>
 </context>
 <context>
@@ -2188,7 +2188,7 @@ Osoite: %4</translation>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Anarchycoin version</source>
-        <translation>Gamerscoinin versio</translation>
+        <translation>Anarchycoinin versio</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2809,7 +2809,7 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Anarchycoin</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Gamerscoinista</translation>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Anarchycoinista</translation>
     </message>
     <message>
         <location line="+93"/>

@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Anarchycoin</source>
-        <translation>Gamerscoinist</translation>
+        <translation>Anarchycoinist</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Anarchycoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Gamerscoini&lt;/b&gt; versioon</translation>
+        <translation>&lt;b&gt;Anarchycoini&lt;/b&gt; versioon</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -68,7 +68,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Anarchycoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Maksete saamiseks kasutatavad Gamerscoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
+        <translation>Maksete saamiseks kasutatavad Anarchycoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -108,7 +108,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified Anarchycoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Gamerscoini aadressiga.</translation>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Anarchycoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,7 +123,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
         <source>These are your Anarchycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Gamerscoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <translation>Need on sinu Anarchycoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,8 +248,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GAMERSCOINS&lt;/b&gt;!</source>
-        <translation>Hoiatus: Kui sa kaotad oma, rahakoti krüpteerimisel kasutatud, salafraasi, siis &lt;b&gt;KAOTAD KA KÕIK OMA GAMERSCOINID&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AnarchycoinS&lt;/b&gt;!</source>
+        <translation>Hoiatus: Kui sa kaotad oma, rahakoti krüpteerimisel kasutatud, salafraasi, siis &lt;b&gt;KAOTAD KA KÕIK OMA AnarchycoinID&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -375,7 +375,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="+4"/>
         <source>Show information about Anarchycoin</source>
-        <translation>Kuva info Gamerscoini kohta</translation>
+        <translation>Kuva info Anarchycoini kohta</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,12 +420,12 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="-347"/>
         <source>Send coins to a Anarchycoin address</source>
-        <translation>Saada münte Gamerscoini aadressile</translation>
+        <translation>Saada münte Anarchycoini aadressile</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Anarchycoin</source>
-        <translation>Muuda Gamerscoini seadeid</translation>
+        <translation>Muuda Anarchycoini seadeid</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -481,7 +481,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="+22"/>
         <source>&amp;About Anarchycoin</source>
-        <translation>%Gamerscoinist</translation>
+        <translation>%Anarchycoinist</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,12 +501,12 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="+7"/>
         <source>Sign messages with your Anarchycoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Gamerscoini aadressiga</translation>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Anarchycoini aadressiga</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Anarchycoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Gamerscoini aadressiga</translation>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Anarchycoini aadressiga</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,12 +537,12 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="+47"/>
         <source>Anarchycoin client</source>
-        <translation>Gamerscoini klient</translation>
+        <translation>Anarchycoini klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Anarchycoin network</source>
-        <translation><numerusform>%n aktiivne ühendus Gamerscoini võrku</numerusform><numerusform>%n aktiivset ühendust Gamerscoini võrku</numerusform></translation>
+        <translation><numerusform>%n aktiivne ühendus Anarchycoini võrku</numerusform><numerusform>%n aktiivset ühendust Anarchycoini võrku</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,7 +656,7 @@ Aadress: %4⏎</translation>
         <location line="-23"/>
         <location line="+23"/>
         <source>URI can not be parsed! This can be caused by an invalid Anarchycoin address or malformed URI parameters.</source>
-        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu Gamerscoini aadress või vigased URI parameetrid.</translation>
+        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu Anarchycoini aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -737,7 +737,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Anarchycoin address.</source>
-        <translation>Sisestatud aadress &quot;%1&quot; ei ole Gamerscoinis kehtiv.</translation>
+        <translation>Sisestatud aadress &quot;%1&quot; ei ole Anarchycoinis kehtiv.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,7 +756,7 @@ Aadress: %4⏎</translation>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
         <source>Anarchycoin-Qt</source>
-        <translation>Gamerscoini-Qt</translation>
+        <translation>Anarchycoini-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -844,7 +844,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+6"/>
         <source>Automatically open the Anarchycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Gamerscoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <translation>Anarchycoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,7 +854,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+7"/>
         <source>Connect to the Anarchycoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Kasuta Gamerscoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
+        <translation>Kasuta Anarchycoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,7 +929,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Anarchycoin.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Gamerscoini käivitamisel.</translation>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Anarchycoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,7 +944,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+9"/>
         <source>Whether to show Anarchycoin addresses in the transaction list or not.</source>
-        <translation>Kuvada Gamerscoini aadress tehingute loetelus või mitte.</translation>
+        <translation>Kuvada Anarchycoini aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,7 +996,7 @@ Aadress: %4⏎</translation>
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Anarchycoin.</source>
-        <translation>Tehtud valik rakendub Gamerscoini käivitamisel.</translation>
+        <translation>Tehtud valik rakendub Anarchycoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1219,7 +1219,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+7"/>
         <source>Show the Anarchycoin-Qt help message to get a list with possible Anarchycoin command-line options.</source>
-        <translation>Näita kehtivate käsurea valikute kuvamiseks Gamerscoini-Qt abiteksti</translation>
+        <translation>Näita kehtivate käsurea valikute kuvamiseks Anarchycoini-Qt abiteksti</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1244,7 +1244,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+25"/>
         <source>Anarchycoin Core</source>
-        <translation>Gamerscoini tuumik</translation>
+        <translation>Anarchycoini tuumik</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,7 +1254,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+7"/>
         <source>Open the Anarchycoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava Gamerscoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <translation>Ava Anarchycoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,7 +1264,7 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the Anarchycoin RPC console.</source>
-        <translation>Teretulemast Gamerscoini RPC konsooli.</translation>
+        <translation>Teretulemast Anarchycoini RPC konsooli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,7 +1448,7 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Sisesta Gamerscoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Sisesta Anarchycoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1513,7 +1513,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Anarchycoin address</source>
-        <translation>Allkirjasta sõnum Gamerscoini aadressi sulle kuulumise tõestamiseks</translation>
+        <translation>Allkirjasta sõnum Anarchycoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,7 +1549,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Anarchycoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Gamerscoini aadressiga.</translation>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Anarchycoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,7 +1565,7 @@ Aadress: %4⏎</translation>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Sisesta Gamerscoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Sisesta Anarchycoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,7 +1575,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+3"/>
         <source>Enter Anarchycoin signature</source>
-        <translation>Sisesta Gamerscoini allkiri</translation>
+        <translation>Sisesta Anarchycoini allkiri</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2187,7 +2187,7 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Anarchycoin version</source>
-        <translation>Gamerscoini versioon</translation>
+        <translation>Anarchycoini versioon</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2627,7 +2627,7 @@ nt: alertnotify=echo %%s | email -s &quot;Anarchycoin Alert&quot; admin@foo.com
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Anarchycoin Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata Gamerscoini Wikist või SSL sätete juhendist)</translation>
+        <translation>SSL valikud: (vaata Anarchycoini Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,7 +2817,7 @@ nt: alertnotify=echo %%s | email -s &quot;Anarchycoin Alert&quot; admin@foo.com
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Anarchycoin</source>
-        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Gamerscoini uusimat versiooni</translation>
+        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Anarchycoini uusimat versiooni</translation>
     </message>
     <message>
         <location line="+93"/>

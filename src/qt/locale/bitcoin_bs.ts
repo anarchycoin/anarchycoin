@@ -5,7 +5,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Anarchycoin</source>
-        <translation>O Gamerscoinu</translation>
+        <translation>O Anarchycoinu</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -243,7 +243,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GAMERSCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AnarchycoinS&lt;/b&gt;!</source>
         <translation type="unfinished"/>
     </message>
     <message>

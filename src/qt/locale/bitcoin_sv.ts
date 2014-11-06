@@ -124,7 +124,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
         <source>These are your Anarchycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina Anarchycoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Gamerscoins.</translation>
+        <translation>Detta är dina Anarchycoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Anarchycoins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -139,7 +139,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>Skicka &amp;Gamerscoins</translation>
+        <translation>Skicka &amp;Anarchycoins</translation>
     </message>
     <message>
         <location line="+260"/>
@@ -249,7 +249,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GAMERSCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AnarchycoinS&lt;/b&gt;!</source>
         <translation>VARNING: Om du krypterar din plånbok och glömmer ditt lösenord, kommer du att &lt;b&gt;FÖRLORA ALLA DINA TILLGÅNGAR&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -502,7 +502,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+7"/>
         <source>Sign messages with your Anarchycoin addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Gamerscoinadress för att bevisa att du äger dem</translation>
+        <translation>Signera meddelanden med din Anarchycoinadress för att bevisa att du äger dem</translation>
     </message>
     <message>
         <location line="+2"/>

@@ -5,7 +5,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Anarchycoin</source>
-        <translation>O Gamerscoinu</translation>
+        <translation>O Anarchycoinu</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -35,7 +35,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+0"/>
         <source>The Anarchycoin developers</source>
-        <translation>Vývojáři Gamerscoinu</translation>
+        <translation>Vývojáři Anarchycoinu</translation>
     </message>
 </context>
 <context>
@@ -68,7 +68,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Anarchycoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tohle jsou tvé Gamerscoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
+        <translation>Tohle jsou tvé Anarchycoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,7 +83,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Anarchycoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Gamerscoinové adresy</translation>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Anarchycoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -108,7 +108,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified Anarchycoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Gamerscoinovou adresou</translation>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Anarchycoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,7 +123,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
         <source>These are your Anarchycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Gamerscoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <translation>Tohle jsou tvé Anarchycoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,8 +248,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GAMERSCOINS&lt;/b&gt;!</source>
-        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY GAMERSCOINY&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AnarchycoinS&lt;/b&gt;!</source>
+        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY AnarchycoinY&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -375,7 +375,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+4"/>
         <source>Show information about Anarchycoin</source>
-        <translation>Zobraz informace o Gamerscoinu</translation>
+        <translation>Zobraz informace o Anarchycoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,12 +420,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-347"/>
         <source>Send coins to a Anarchycoin address</source>
-        <translation>Pošli mince na Gamerscoinovou adresu</translation>
+        <translation>Pošli mince na Anarchycoinovou adresu</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Anarchycoin</source>
-        <translation>Uprav nastavení Gamerscoinu</translation>
+        <translation>Uprav nastavení Anarchycoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -481,7 +481,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+22"/>
         <source>&amp;About Anarchycoin</source>
-        <translation>O &amp;Gamerscoinu</translation>
+        <translation>O &amp;Anarchycoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,12 +501,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+7"/>
         <source>Sign messages with your Anarchycoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Gamerscoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <translation>Podepiš zprávy svými Anarchycoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Anarchycoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Gamerscoinovými adresami</translation>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Anarchycoinovými adresami</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -542,7 +542,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Anarchycoin network</source>
-        <translation><numerusform>%n aktivní spojení do Gamerscoinové sítě</numerusform><numerusform>%n aktivní spojení do Gamerscoinové sítě</numerusform><numerusform>%n aktivních spojení do Gamerscoinové sítě</numerusform></translation>
+        <translation><numerusform>%n aktivní spojení do Anarchycoinové sítě</numerusform><numerusform>%n aktivní spojení do Anarchycoinové sítě</numerusform><numerusform>%n aktivních spojení do Anarchycoinové sítě</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -657,7 +657,7 @@ Adresa: %4
         <location line="-23"/>
         <location line="+23"/>
         <source>URI can not be parsed! This can be caused by an invalid Anarchycoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Gamerscoinová adresa nebo poškozené parametry URI.</translation>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Anarchycoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -738,7 +738,7 @@ Adresa: %4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Anarchycoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Gamerscoinová adresa.</translation>
+        <translation>Zadaná adresa &quot;%1&quot; není platná Anarchycoinová adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -855,7 +855,7 @@ Adresa: %4
     <message>
         <location line="+7"/>
         <source>Connect to the Anarchycoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připojí se do Gamerscoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
+        <translation>Připojí se do Anarchycoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -930,7 +930,7 @@ Adresa: %4
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Anarchycoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Gamerscoinu.</translation>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Anarchycoinu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -997,7 +997,7 @@ Adresa: %4
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Anarchycoin.</source>
-        <translation>Nastavení se projeví až po restartování Gamerscoinu.</translation>
+        <translation>Nastavení se projeví až po restartování Anarchycoinu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1016,7 +1016,7 @@ Adresa: %4
         <location line="+50"/>
         <location line="+166"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anarchycoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Gamerscoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Anarchycoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1220,7 +1220,7 @@ Adresa: %4
     <message>
         <location line="+7"/>
         <source>Show the Anarchycoin-Qt help message to get a list with possible Anarchycoin command-line options.</source>
-        <translation>Seznam parametrů Gamerscoinu pro příkazovou řádku získáš v nápovědě Gamerscoinu Qt.</translation>
+        <translation>Seznam parametrů Anarchycoinu pro příkazovou řádku získáš v nápovědě Anarchycoinu Qt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1245,7 +1245,7 @@ Adresa: %4
     <message>
         <location line="+25"/>
         <source>Anarchycoin Core</source>
-        <translation>Jádro Gamerscoinu</translation>
+        <translation>Jádro Anarchycoinu</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1255,7 +1255,7 @@ Adresa: %4
     <message>
         <location line="+7"/>
         <source>Open the Anarchycoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Gamerscoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <translation>Otevři soubor s ladicími záznamy Anarchycoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1265,7 +1265,7 @@ Adresa: %4
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the Anarchycoin RPC console.</source>
-        <translation>Vítej v Gamerscoinové RPC konzoli.</translation>
+        <translation>Vítej v Anarchycoinové RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1449,7 +1449,7 @@ Adresa: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej Gamerscoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Zadej Anarchycoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1514,7 +1514,7 @@ Adresa: %4
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Anarchycoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Gamerscoinové adresy</translation>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Anarchycoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1550,7 +1550,7 @@ Adresa: %4
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Anarchycoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Gamerscoinovou adresou</translation>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Anarchycoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,7 +1566,7 @@ Adresa: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Anarchycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej Gamerscoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Zadej Anarchycoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,7 +1576,7 @@ Adresa: %4
     <message>
         <location line="+3"/>
         <source>Enter Anarchycoin signature</source>
-        <translation>Vlož Gamerscoinový podpis</translation>
+        <translation>Vlož Anarchycoinový podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1650,7 +1650,7 @@ Adresa: %4
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
         <source>The Anarchycoin developers</source>
-        <translation>Vývojáři Gamerscoinu</translation>
+        <translation>Vývojáři Anarchycoinu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2188,7 +2188,7 @@ Adresa: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Anarchycoin version</source>
-        <translation>Verze Gamerscoinu</translation>
+        <translation>Verze Anarchycoinu</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2818,7 +2818,7 @@ například: alertnotify=echo %%s | mail -s &quot;Anarchycoin Alert&quot; admin@
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Anarchycoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Gamerscoinu</translation>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Anarchycoinu</translation>
     </message>
     <message>
         <location line="+93"/>

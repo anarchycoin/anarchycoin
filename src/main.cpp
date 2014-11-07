@@ -33,7 +33,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0xa0724584285b841308898b4b09f59ac3d30eb2c938f90256635763ed2564b537");
+uint256 hashGenesisBlock("0x19a6e484136432be8ae516ec33cfece87ed92de9eaf41a25b98304717c808218");
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Anarchycoin: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -2859,11 +2859,15 @@ bool InitBlockIndex() {
     // Only add the genesis block if not reindexing (in which case we reuse the one already on disk)
     if (!fReindex) {
         // Genesis Block:
-        // CBlock(hash=12a765e31ffd4059bada, PoW=0000050c34a64b415b6b, ver=1, hashPrevBlock=00000000000000000000, hashMerkleRoot=97ddfbbae6, nTime=1317972665, nBits=1e0ffff0, nNonce=2084524493, vtx=1)
-        //   CTransaction(hash=97ddfbbae6, ver=1, vin.size=1, vout.size=1, nLockTime=0)
-        //     CTxIn(COutPoint(0000000000, -1), coinbase 04ffff001d0104404e592054696d65732030352f4f63742f32303131205374657665204a6f62732c204170706c65e280997320566973696f6e6172792c2044696573206174203536)
-        //     CTxOut(nValue=50.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
-        //   vMerkleTree: 97ddfbbae6
+    //block.nTime = 1415316789
+    //block.nNonce = 657143
+    //block.GetHash = 19a6e484136432be8ae516ec33cfece87ed92de9eaf41a25b98304717c808218
+    //      CBlock(hash=19a6e484136432be8ae516ec33cfece87ed92de9eaf41a25b98304717c808218, input=010000000000000000000000000000000000000000000000000000000000000000000000f77b709fe87441c3bf524228bc4358da34a3e4ec2114226921153948dbfe3c1a35055c54f0ff0f1ef7060a00, PoW=000003fa59c6fb6b23b0a470634f6b92cff61ef3bc81f5deed2ef616ecd88687, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=1a3cfedb4839152169221421ece4a334da5843bc284252bfc34174e89f707bf7, nTime=1415316789, nBits=1e0ffff0, nNonce=657143, vtx=1)
+    //      CTransaction(hash=1a3cfedb4839152169221421ece4a334da5843bc284252bfc34174e89f707bf7, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    //      CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d01042930342e31312e323031342045626f6c61206f7574627265616b2047657420757020746f207370656564)
+    //      CTxOut(nValue=50.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
+    //      vMerkleTree: 1a3cfedb4839152169221421ece4a334da5843bc284252bfc34174e89f707bf7
+
 
         // Genesis block
         const char* pszTimestamp = "04.11.2014 Ebola outbreak Get up to speed";
@@ -2878,9 +2882,9 @@ bool InitBlockIndex() {
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1415140523;
+        block.nTime    = 1415316789;
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 309394;
+        block.nNonce   = 657143;
 
         if (fTestNet)
         {
@@ -2895,53 +2899,7 @@ bool InitBlockIndex() {
         printf("%s\n", block.hashMerkleRoot.ToString().c_str());
         assert(block.hashMerkleRoot == uint256("0x1a3cfedb4839152169221421ece4a334da5843bc284252bfc34174e89f707bf7"));
 ////
-        // If genesis block hash does not match, then generate new genesis hash.
-        // If genesis block hash does not match, then generate new genesis hash.
-        if (false && block.GetHash() != hashGenesisBlock)
-        {
-            printf("Searching for genesis block...\n");
-            // This will figure out a valid hash and Nonce if you're
-            // creating a different genesis block:
-            uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
-            uint256 thash;
-            char scratchpad[SCRYPT_SCRATCHPAD_SIZE];
-
-            loop
-            {
-#if defined(USE_SSE2)
-                // Detection would work, but in cases where we KNOW it always has SSE2,
-                // it is faster to use directly than to use a function pointer or conditional.
-#if defined(_M_X64) || defined(__x86_64__) || defined(_M_AMD64) || (defined(MAC_OSX) && defined(__i386__))
-                // Always SSE2: x86_64 or Intel MacOS X
-                scrypt_1024_1_1_256_sp_sse2(BEGIN(block.nVersion), BEGIN(thash), scratchpad);
-#else
-                // Detect SSE2: 32bit x86 Linux or Windows
-                scrypt_1024_1_1_256_sp(BEGIN(block.nVersion), BEGIN(thash), scratchpad);
-#endif
-#else
-                // Generic scrypt
-                scrypt_1024_1_1_256_sp_generic(BEGIN(block.nVersion), BEGIN(thash), scratchpad);
-#endif
-                if (thash <= hashTarget)
-                    break;
-                if ((block.nNonce & 0xFFF) == 0)
-                {
-                    printf("nonce %08X: hash = %s (target = %s)\n", block.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
-                }
-                ++block.nNonce;
-                if (block.nNonce == 0)
-                {
-                    printf("NONCE WRAPPED, incrementing time\n");
-                    ++block.nTime;
-                }
-            }
-            printf("block.nTime = %u \n", block.nTime);
-            printf("block.nNonce = %u \n", block.nNonce);
-            printf("block.GetHash = %s\n", block.GetHash().ToString().c_str());
-        }
-
-
-        
+        // If genesis block hash does not match, then generate new genesis hash.     
 ////
 
         block.print();
